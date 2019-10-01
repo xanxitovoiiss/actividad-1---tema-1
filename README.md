@@ -22,4 +22,4 @@
 1º celda | 2º celda
 1º columna | 2º columna
 
-![GitHub Logo](/images/logo.png)
+![logo](tux.jpg)
